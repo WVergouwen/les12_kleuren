@@ -1,0 +1,104 @@
+body{
+  width: 1000px;
+}
+header{
+  height: 100px;
+  background-color: red;
+  color: white;
+  font-weight:bold;
+  font-size: 30px;
+}
+table, td{
+  border: 3px solid blue;
+  border-collapse: collapse;
+}
+td{
+  width: 250px;
+  height: 150px;
+}
+#bgcel1{
+  background-color: #FFFF00;
+}
+#bgcel2{
+  background-color: #FFCC00;
+}
+#bgcel3{
+  background-color: #FF9900;
+}
+#bgcel4{
+  background-color: #FF6600;
+}
+#bgcel5{
+  background-color: #CCFF00;
+}
+#bgcel6{
+  background-color: #CCCC00;
+}
+#bgcel7{
+  background-color: #CC9900;
+}
+#bgcel8{
+  background-color: #CC6600;
+}
+#bgcel9{
+  background-color: #99FF00;
+}
+#bgcel10{
+  background-color: #99CC00;
+}
+#bgcel11{
+  background-color: #999900;
+}
+#bgcel12{
+  background-color: #996600;
+}
+#bgcel13{
+  background-color: #66FF00;
+}
+#bgcel14{
+  background-color: #66CC00;
+}
+#bgcel15{
+  background-color: #669900;
+}
+#bgcel16{
+  background-color: #666600;
+}
+p{
+  font-size: 20px;
+  font-weight: bold;
+}
+#bgtext1{
+  background-color: rgb(255, 0, 0);
+}
+#bgtext5{
+  background-color: rgb(250, 20, 60);
+}
+#bgtext9{
+  background-color: rgb(240, 128, 128);
+}
+#bgtext13{
+  background-color: rgb(233, 150, 122);
+}
+#bgtext3{
+  background-color: rgb(186, 85, 211);
+}
+#bgtext7{
+  background-color: rgb(218, 112, 214);
+}
+#bgtext11{
+  background-color: rgb(221, 160, 221);
+}
+#bgtext15{
+  background-color: rgb(230, 230, 250);
+}
+img{
+  width: 150px;
+}
+footer{
+  height: 100px;
+  background-color: orange;
+  color: blue;
+  font-weight: bold;
+  font-size: 30px;
+}
